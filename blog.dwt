@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Rama's Blog</title>
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+	  <li><a href="about.html">About</a></li>
+	    <li><a href="/pages/blog.html">Blog</a></li>
+	    <li><a href="gallery.html">Gallery</a></li>
+		  <li><a href="/pages/contact.html">Contact</a></li>
+	  </ul>
+  </nav>
+	  <!--Begin Floated Elements-->
+  <aside><h3>I am a woman, a mother, a wife, a teacher, a web developer, and a photographer, who also wears glasses.</h3>
+    <h3>Join me as I examine life through all my various lenses.</h3>
+    <h3>By Jess Campbell</h3>
+	</aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+	  <h1>Page Title</h1>
+	</main>
+  <!-- TemplateEndEditable --><!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
